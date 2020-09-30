@@ -1,0 +1,3 @@
+in cart, lines 50-80, showMessage function is done differently in the video. it's better my way.
+
+
